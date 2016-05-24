@@ -122,7 +122,7 @@
   url        = {http://amazon.com/o/ASIN/1857390253/},
 }
 
-@Book{vickery1960faceted,
+@Book{vickery1960,
   title     = {Faceted Classification: A Guide to Construction and Use of Special Schemes},
   publisher = {Aslib},
   year      = {1960},
