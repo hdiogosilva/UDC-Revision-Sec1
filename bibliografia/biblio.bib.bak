@@ -1,0 +1,63 @@
+% Encoding: UTF-8
+
+@Article{McIlwaine1997,
+  author    = {McIlwaine, I. C.},
+  title     = {The Universal Decimal Classification: Some factors concerning its origins, development, and influence},
+  journal   = {Journal of the American Society for Information Science},
+  year      = {1997},
+  volume    = {48},
+  number    = {4},
+  pages     = {331--339},
+  month     = {4},
+  abstract  = {The bibliographic enterprise envisaged by Otlet and La-Fontaine, which resulted in the Universal Decimal Classification (UDC) being developed in 1895, and the subsequent history of the scheme is outlined. Relationship with Dewey Decimal Classification (DDC) from which it was derived deteriorated in the early 20th century and changes in funding, location, and editorship of Duyvis from 1929–1959 had a profound effect on the scheme's development and management. Lloyd, Duyvis's successor, reformed the revision structure, and further management changes from 1975 to the present day, culminated in the formation of the UDC Consortium in 1992. The subsequent creation of a machine-readable Master Reference File and speedier revision procedures are noted. The scheme's structure, development, and influence on classification theory are examined, problems caused by longevity and lack of standard procedures, and proposals for their reform to improve the scheme's suitability for an automated world are highlighted. Research projects in the 1960s foreshadowed possibilities today being explored, such as a complementary thesaurus and individualization of single concepts notationally. The value of classification in a multilingual environment is emphasized and future developments outlined. A list of recent editions is appended. © 1997 John Wiley & Sons, Inc.},
+  doi       = {10.1002/(SICI)1097-4571(199704)48:4<331::AID-ASI6>3.0.CO;2-X},
+  issn      = {1097-4571},
+  publisher = {Wiley Online Library},
+  url       = {http://dx.doi.org/10.1002/(SICI)1097-4571(199704)48:4<331::AID-ASI6>3.0.CO;2-X},
+}
+
+@Article{Gnoli,
+  author    = {Gnoli, Claudio},
+  title     = {The UDC Philosophy Revision: First Report},
+  journal   = {Extensions \& Corrections to the UDC},
+  year      = {2009},
+  note      = {The author of this report has been charged by the UDC Consortium to study the possibility of a revision of class 1 Philosophy. Psychology, of the Universal Decimal Classification. In order to explore the situation and discuss possibilities of revising Class 1, an informal working group was formed at the beginning of 2009 by the author of this report. Members of the working group agreed that the revised class should have a fully faceted structure. One basic step in the revision study is to identify the facets needed to express the contents of philosophical knowledge appropriately. To this purpose, one starting point was provided by examination of the facets of philosophy in existing classifications, in particular BC2. The next steps will be to pay more attention to the details of classes and subclasses, and to the update of terminology and presentation of the schedule. All these components are expected to be included in a final proposal for revision of class 1.},
+  abstract  = {The author of this report has been charged by the UDC Consortium to study the possibility of a revision of class 1 Philosophy. Psychology, of the Universal Decimal Classification. In order to explore the situation and discuss possibilities of revising Class 1, an informal working group was formed at the beginning of 2009 by the author of this report. Members of the working group agreed that the revised class should have a fully faceted structure. One basic step in the revision study is to identify the facets needed to express the contents of philosophical knowledge appropriately. To this purpose, one starting point was provided by examination of the facets of philosophy in existing classifications, in particular BC2. The next steps will be to pay more attention to the details of classes and subclasses, and to the update of terminology and presentation of the schedule. All these components are expected to be included in a final proposal for revision of class 1.},
+  doi       = {10.7152/acro.v20i1.12882},
+  issn      = {0014-5424},
+  keywords  = {Classification; Philosophy; UDC},
+  publisher = {UDC Consortium},
+  url       = {http://hdl.handle.net/10150/200633},
+}
+
+@Article{GnoliMazzocchiSlavic2008Dec,
+  author    = {Gnoli, Claudio and Mazzocchi, Fulvio and Slavic, Aida},
+  title     = {The UDC Philosophy revision project},
+  journal   = {Extensions and Corrections to the UDC},
+  year      = {2008 Dec},
+  volume    = {12},
+  number    = {30},
+  note      = {The UDC class 1 Philosophy. Psychology has remained unchanged for more than forty years. The most obvious problem with the class is an anachronistic intercalation of psychology in the middle of the class of philosophy (Task force for UDC system development, 1990), one of the still uncorrected remainders of structural problems inherited from Dewey Decimal Classification. We are now pleased to announce that the project of the revision of UDC class 1 Philosophy will take place in 2009-2010.},
+  abstract  = {The UDC class 1 Philosophy. Psychology has remained unchanged for more than forty years. The most obvious problem with the class is an anachronistic intercalation of psychology in the
+ middle of the class of philosophy (Task force for UDC system development, 1990), one of the still uncorrected remainders of structural problems inherited from Dewey Decimal Classification. We are now pleased to announce that the project of the revision of UDC class 1 Philosophy will take place in 2009-2010.},
+  publisher = {UDC Consortium},
+  url       = {http://hdl.handle.net/10150/105925},
+}
+
+@Book{KyleVickery1961,
+  title     = {The Universaal Decimal Classification: Present Position and Future Developments},
+  publisher = {Unesco},
+  year      = {1961},
+  author    = {Kyle, Barbara Ruth Fuessli and Vickery, Brian Campbell},
+  url       = {http://unesdoc.unesco.org/images/0008/000876/087613eo.pdf},
+}
+
+@Article{McIlwaine2000,
+  author  = {McIlwaine, I},
+  title   = {The Universal Decimal Classification},
+  journal = {UDC Consortium},
+  year    = {2000},
+  url     = {http://shop.bsigroup.com/upload/Standards%20&%20Publications/publications/BIP0100SampleChapter.pdf},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

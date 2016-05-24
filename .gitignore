@@ -1,0 +1,6 @@
+old
+auxFiles
+/templ.pdf
+/templ.synctex.gz
+/bibliografia/*.pdf
+!templ.pdf

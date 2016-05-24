@@ -1,0 +1,90 @@
+\documentclass{report}
+
+%------Pacotes-------
+
+\usepackage[T1]{fontenc} % Use 8-bit encoding that has 256 glyphs
+\usepackage{fourier} % Tipo de letra Adobe Utopia
+\usepackage[portuguese]{babel} % Hyphenation
+\usepackage{graphicx} % Trabalhar com imagens
+\usepackage{todonotes} %Insirir notas
+
+\usepackage{tikz}
+\usetikzlibrary{trees}
+
+
+\usepackage[margin=3cm]{geometry} %margens
+
+\usepackage{float}
+\usepackage{wrapfig}
+\usepackage{csquotes}
+\usepackage{sectsty}
+
+%------Bibliografia-------
+\usepackage[authordate,natbib,backend=biber]{biblatex-chicago}
+\addbibresource{bibliografia/biblio.bib}
+
+
+%------Cabeçalhos e Rodapés--
+\usepackage{fancyhdr} % Cabeçalhos e rodapés
+\pagestyle{fancyplain} % Forçar todas as péginas a utilizar cabeçalhos e rodapés
+\fancyhead{} % Cabeçalhos vazios
+\fancyfoot[L]{} % Rodapé esquerdo vazio
+\fancyfoot[C]{} % Rodapé centro vazio
+\fancyfoot[R]{\thepage} % Numeração no rodapé direito
+\renewcommand{\headrulewidth}{0pt} % Cabeçalho sem sublinhado
+\renewcommand{\footrulewidth}{0pt} % Rodapé sem sublinhado
+%\setlength{\headheight}{13.6pt} % Tamanho de cabeçalho
+
+%------Comandos etc------
+\allsectionsfont{\normalfont\scshape} % Centrar todas as secções
+\setlength\parindent{0pt} %Remove indentações
+\graphicspath{{imagens/}}
+
+%------Título------
+\author{Henrique Diogo Silva}
+\date{\normalsize\today}
+
+\title{
+	TEMPLATE \LaTeX
+}
+
+%----------------------------------------------------------------------------------------
+%	TITLE PAGE
+%----------------------------------------------------------------------------------------
+
+\newcommand*{\titleGM}{\begingroup % Create the command for including the title page in the document
+	\hbox{ % Horizontal box
+		\hspace*{0.2\textwidth} % Whitespace to the left of the title page
+		\rule{1pt}{\textheight} % Vertical line
+		\hspace*{0.05\textwidth} % Whitespace between the vertical line and title page text
+		\parbox[b]{0.75\textwidth}{ % Paragraph box which restricts text to less than the width of the page
+			
+			{\noindent\Huge\bfseries A Collection of \\[0.5\baselineskip] \LaTeX ~Templates}\\[2\baselineskip] % Title
+			{\large \textit{A predictable tagline}}\\[4\baselineskip] % Tagline or further description
+			{\Large Henrique Diogo Silva} % Author name
+			{\\\today}
+			\vspace{0.5\textheight} % Whitespace between the title block and the publisher
+			
+			{\includegraphics[width=5cm]{logo}}\\[\baselineskip] % Publisher and logo
+		}}
+		\endgroup}
+	
+%----------------------------------------------------------------------------------------
+
+
+%------------------
+\begin{document}
+\titleGM
+%\includegraphics[width=5cm]{logo}
+%-------Corpo do Documento-----------
+\input{corpo/abstract}
+\tableofcontents
+\clearpage
+\input{corpo/introducao}
+\input{corpo/corpo1}
+\input{corpo/corpo2}
+\input{corpo/corpo3}
+%------------------------------------
+\clearpage
+\printbibliography
+\end{document}
