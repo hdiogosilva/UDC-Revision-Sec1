@@ -1,4 +1,4 @@
-\documentclass{report}
+\documentclass[11pt]{report}
 
 %------Pacotes-------
 \usepackage[table]{xcolor}
@@ -23,14 +23,14 @@
 
 
 %------Cabeçalhos e Rodapés--
-\usepackage{fancyhdr} % Cabeçalhos e rodapés
-\pagestyle{fancyplain} % Forçar todas as péginas a utilizar cabeçalhos e rodapés
-\fancyhead{} % Cabeçalhos vazios
-\fancyfoot[L]{} % Rodapé esquerdo vazio
-\fancyfoot[C]{} % Rodapé centro vazio
-\fancyfoot[R]{\thepage} % Numeração no rodapé direito
-\renewcommand{\headrulewidth}{0pt} % Cabeçalho sem sublinhado
-\renewcommand{\footrulewidth}{0pt} % Rodapé sem sublinhado
+%\usepackage{fancyhdr} % Cabeçalhos e rodapés
+%\pagestyle{fancyplain} % Forçar todas as péginas a utilizar cabeçalhos e rodapés
+%\fancyhead{} % Cabeçalhos vazios
+%\fancyfoot[L]{} % Rodapé esquerdo vazio
+%\fancyfoot[C]{} % Rodapé centro vazio
+%\fancyfoot[R]{\thepage} % Numeração no rodapé direito
+%\renewcommand{\headrulewidth}{0pt} % Cabeçalho sem sublinhado
+%\renewcommand{\footrulewidth}{0pt} % Rodapé sem sublinhado
 %\setlength{\headheight}{13.6pt} % Tamanho de cabeçalho
 
 %------Comandos etc------
@@ -72,7 +72,9 @@
 
 %------------------
 \begin{document}
-\titleGM
+\begin{titlepage}
+	\titleGM
+\end{titlepage}
 %\includegraphics[width=5cm]{logo}
 %-------Corpo do Documento-----------
 \input{corpo/abstract}

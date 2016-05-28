@@ -37,7 +37,6 @@
   year      = {2008 Dec},
   volume    = {12},
   number    = {30},
-  note      = {The UDC class 1 Philosophy. Psychology has remained unchanged for more than forty years. The most obvious problem with the class is an anachronistic intercalation of psychology in the middle of the class of philosophy (Task force for UDC system development, 1990), one of the still uncorrected remainders of structural problems inherited from Dewey Decimal Classification. We are now pleased to announce that the project of the revision of UDC class 1 Philosophy will take place in 2009-2010.},
   abstract  = {The UDC class 1 Philosophy. Psychology has remained unchanged for more than forty years. The most obvious problem with the class is an anachronistic intercalation of psychology in the
  middle of the class of philosophy (Task force for UDC system development, 1990), one of the still uncorrected remainders of structural problems inherited from Dewey Decimal Classification. We are now pleased to announce that the project of the revision of UDC class 1 Philosophy will take place in 2009-2010.},
   publisher = {UDC Consortium},
@@ -45,11 +44,13 @@
 }
 
 @Book{KyleVickery1961,
-  title     = {The Universaal Decimal Classification: Present Position and Future Developments},
-  publisher = {Unesco},
-  year      = {1961},
-  author    = {Kyle, Barbara Ruth Fuessli and Vickery, Brian Campbell},
-  url       = {http://unesdoc.unesco.org/images/0008/000876/087613eo.pdf},
+  title         = {The Universal Decimal Classification : present position and future developments},
+  publisher     = {UNESCO},
+  year          = {1961},
+  author        = {Kyle, Barbara Ruth Fuessli and Vickery, B. C. (Brian Campbell) and Unesco},
+  catalogue-url = {http://trove.nla.gov.au/work/11540940},
+  subjects      = {Classification, Universal decimal},
+  type          = {Book},
 }
 
 @Article{McIlwaine2000,
@@ -128,6 +129,31 @@
   year      = {1960},
   author    = {Vickery, B.C.},
   lccn      = {61003323},
+}
+
+@Unpublished{taskForce1990,
+  title   = {Task force for UDC system development : final report},
+  month   = {feb},
+  year    = {1990},
+  comment = {FID internal document},
+}
+
+@Article{hatfield1994remaking,
+  author  = {Hatfield, Gary},
+  title   = {Remaking the science of mind: Psychology as natural science},
+  journal = {IRCS Technical Reports Series},
+  year    = {1994},
+  pages   = {159},
+}
+
+@Book{colonClassi,
+  title     = {Colon classification},
+  publisher = {The Madras Library Association ; E. Goldston},
+  year      = {1939},
+  author    = {Ranganathan, S. R.},
+  address   = {Madras; London},
+  edition   = {2nd ed.},
+  type      = {Book},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}
