@@ -10,10 +10,9 @@
   pages     = {331--339},
   month     = {4},
   abstract  = {The bibliographic enterprise envisaged by Otlet and La-Fontaine, which resulted in the Universal Decimal Classification (UDC) being developed in 1895, and the subsequent history of the scheme is outlined. Relationship with Dewey Decimal Classification (DDC) from which it was derived deteriorated in the early 20th century and changes in funding, location, and editorship of Duyvis from 1929–1959 had a profound effect on the scheme's development and management. Lloyd, Duyvis's successor, reformed the revision structure, and further management changes from 1975 to the present day, culminated in the formation of the UDC Consortium in 1992. The subsequent creation of a machine-readable Master Reference File and speedier revision procedures are noted. The scheme's structure, development, and influence on classification theory are examined, problems caused by longevity and lack of standard procedures, and proposals for their reform to improve the scheme's suitability for an automated world are highlighted. Research projects in the 1960s foreshadowed possibilities today being explored, such as a complementary thesaurus and individualization of single concepts notationally. The value of classification in a multilingual environment is emphasized and future developments outlined. A list of recent editions is appended. © 1997 John Wiley & Sons, Inc.},
-  doi       = {10.1002/(SICI)1097-4571(199704)48:4<331::AID-ASI6>3.0.CO;2-X},
+  doi       = {10.1002/(sici)1097-4571(199704)48:4<331::aid-asi6>3.0.co;2-x},
   issn      = {1097-4571},
   publisher = {Wiley Online Library},
-  url       = {http://dx.doi.org/10.1002/(SICI)1097-4571(199704)48:4<331::AID-ASI6>3.0.CO;2-X},
 }
 
 @Article{Gnoli,
@@ -34,7 +33,7 @@
   author    = {Gnoli, Claudio and Mazzocchi, Fulvio and Slavic, Aida},
   title     = {The UDC Philosophy revision project},
   journal   = {Extensions and Corrections to the UDC},
-  year      = {2008 Dec},
+  year      = {2008},
   volume    = {12},
   number    = {30},
   abstract  = {The UDC class 1 Philosophy. Psychology has remained unchanged for more than forty years. The most obvious problem with the class is an anachronistic intercalation of psychology in the
