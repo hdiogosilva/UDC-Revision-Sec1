@@ -1,4 +1,4 @@
-# UDC-Revision-Sec1
+# Filosofia na CDU: Revisão
 
 ## Abstract
 A classe 1 da Classificação Decimal Universal não vê uma atualização ao seu conteúdo à mais de quarenta e cinco anos, encontrando-se assim desatualizada com a atual literatura sobre este campo. Utilizando as novas tendências de modernização da CDU apresentamos neste trabalho uma proposta para a alteração desta classe, à semelhança da revisão conduzida à classe *2 Religião. Teologia*.
